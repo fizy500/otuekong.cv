@@ -1,0 +1,91 @@
+.Cur{
+    background-color:wheat;
+    border-style:solid;
+    width:200px;
+    margin:auto;
+    border-color:white;
+    border-radius:20px;
+    margin-bottom:50px;
+    text-align:center;
+    box-shadow:6px 6px 6px black;
+    
+}
+img{
+    border-radius:500px;
+    display:block;
+    margin-left:auto;
+    margin-right:auto;
+    width:100px;
+    
+}
+
+}
+select{
+    width:100px;
+    padding:16px 20px;
+    border:none;
+    border-radius:4px;
+    background-color:#f1f1f1;
+}
+input[type=text] {
+    width:300px;
+    margin:20px;
+    border-radius:20px;
+}
+input[type=email]{
+    width:300px;
+    margin:20px;
+    border-radius:20px;
+}
+textarea{
+    width:50%;
+    height:150px;
+    padding:12px 20px;
+    box-sizing:border-box;
+    border:2px solid #ccc;
+    border-radius:4px;
+    background-color:#f8f8f8;
+    font-size:10px;
+    resize:none;
+}
+.btn{
+    background-color:tomato;
+    border-style:solid;
+    border-color:white;
+    border-radius:10px;
+    height:50px;
+    width:70px;
+    color:white;
+    margin:10px;
+    display:block;
+}
+.btn:hover{
+    background-color:black;
+}
+.fm{
+    
+    margin-left:auto;
+    margin-right:auto;
+    margin-top:100px;
+
+}
+.contact-btn{
+    width:100px;
+    height:50px;
+    border-radius:25px;
+    background-color:tomato;
+}
+
+.foot{
+    width:100%;
+    height:400px;
+    background-image:url("https://res.cloudinary.com/fizy2019/image/upload/v1567695392/notebook_rykkzz.jpg");
+    background-size: auto auto;
+    text-align:center;
+}
+
+
+.foot2{
+    text-align:center;
+    margin-top:220px;
+}
